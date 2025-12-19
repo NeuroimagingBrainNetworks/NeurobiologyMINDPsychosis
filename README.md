@@ -126,6 +126,12 @@ This section contains the functions that are essential for running the scripts b
 
 -	[regional_brainmap_representation_borders.R](Code/regional_brainmap_representation_borders.R) - generates from .csv files regional brain maps highlighting the significant regions.
 
+## **Cite**
+If you use this software, please cite the following paper and software:
+
+  García-San-Martín, N., Bethlehem, R.A., Segura, P. et al. Reduced brain structural similarity is associated with maturation, neurobiological features, and clinical status in schizophrenia. Nat Commun 16, 8745 (2025). https://doi.org/10.1038/s41467-025-63792-6
+  Natalia-García-San-Martín. NeuroimagingBrainNetworks/NeurobiologyMINDPsychosis: v1.0.0-alpha. Zenodo https://doi.org/10.5281/zenodo.16090994 (2025).
+
 
 ## **License**
 
